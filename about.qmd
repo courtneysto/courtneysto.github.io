@@ -9,20 +9,15 @@ about:
 
 ## Hi, I'm Courtney
 
-The home page is the ten-second version. This is the longer story — write it in
-your own voice.
 
 I came to data science from \[your path: a major, a job, a question that would
-not leave you alone\]. What keeps me here is \[the part of the work you genuinely
-enjoy — the modeling, the wrangling, the moment a chart makes something click\].
+not leave you alone\]. What keeps me here is working with data and projects that have a real impact. Seeing a deployed dashboard assist real stakeholders because of my work keeps me in data science. I love working with all kinds of data and projects that have a real impact.
 
-At Willamette my focus has been \[your emphasis: forecasting, causal inference,
-NLP, data engineering, ...\]. My [capstone](capstone.qmd) is where that comes
-together.
+At Willamette my focus has been data engineering and data analysis. My [capstone](capstone.qmd) is where that comes together.
 
 ### Beyond the terminal
 
-- 🌲 \[Something human — a hobby, a place, a cause.\]
+- 🌲 I am an avid choral singer and I love to try new recipes.
 - 📚 \[Currently reading / learning / building.\]
 - 🎯 \[What you want to be doing in two years.\]
 
@@ -30,6 +25,6 @@ together.
 
 I'm happy to talk about \[data work, collaborations, roles\].
 
-- ✉️ [you@willamette.edu](mailto:cjstonge@willamette.edu)
+- ✉️ [courtneyj.st.onge@gmail.com](mailto:courtneyj.st.onge@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/courtney-stonge/)
 - 💻 [GitHub](https://github.com/courtneysto)
