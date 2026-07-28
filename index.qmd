@@ -1,7 +1,7 @@
 ---
 title: "Courtney St. Onge"
 subtitle: "M.S. Data Science Candidate · Willamette University"
-image: images/profile.png
+image: images/headshot.jpg
 about:
   template: trestles
   image-shape: round
