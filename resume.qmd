@@ -19,22 +19,38 @@ toc: true
 | Area | Tools |
 |------|-------|
 | **Languages** | R, Python, SQL |
-| **Data & ML** | \[tidyverse / pandas, scikit-learn, ...\] |
-| **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
-| **Communication** | Technical writing, data visualization |
+| **Data & ML** | tidyverse, pandas, scikit-learn, |
+| **Workflow** | Git, Quarto, Docker, Airflow, DBT |
+| **Communication** | Technical writing, data visualization and communication |
 
 ## Experience
 
-**\[Job Title\]** — \[Organization\], \[Location\] *(\[dates\])*
+**Performance & Analytics Intern** — Port of Portland, Portland, OR *(June 2025-May 2026)*
 
-- Accomplishment framed as impact, not a task description.
-- Another accomplishment with a number in it if you have one.
+- Conducted operational and program analyses on 35,000+ survey responses using Databricks SQL and Python, converting unstructured data into analysis-ready format to support leadership decision-making
+
+- Produced clear, well-organized technical documentation in SharePoint, enabling continuity for team members and future interns across ongoing projects
+
+- Developed PowerBI dashboards, visualizations, and reports for a wide range of stakeholders, improving confidence in operational and business decisions across departments
+
+- Designed, deployed, and analyzed a sensory room feedback survey to inform purchasing decisions and enhance accessibility for travelers with disabilities
+
+**Operations Intern** — Willamette University Office of Admissions, Salem, OR *(January 2025-May 2025)*
+
+- Created and implemented database queries to manage and validate a dataset of over 15,000,000 entries, ensuring data integrity and accuracy
+
+- Improved efficiency and accuracy of admission decisions through systematic manual verification of GPA calculations for approximately 200 applicants per cycle
+
+**Vice President of Finance** - Alpha Chi Omega Beta Chi Chapter, Salem, OR *(January 2024-December 2025)*
+
+- Managed a $45,000+ annual budget for a 50+ member organization, ensuring full compliance with national policies and financial requirements through continuous monitoring, variance analysis, and corrective action
+
+- Created data-driven educational materials on organizational finances, improving member understanding of budget allocation and fiscal responsibility
+
 
 ## Projects
 
-**\[Capstone Title\]** — see the [Capstone page](capstone.qmd) for the full story.
+**Willamette Applicant Trajectory: Predicting Student College Enrollment Destination** — see the [Capstone page](capstone.qmd) for the full story.
 
 - One line on the problem and your role.
 
-*Placeholders in brackets are fine while you build. Replace them with real,
-defensible entries as they materialize — sparse and true beats full and shaky.*
