@@ -81,14 +81,5 @@ rely on `freeze`) on any chunk that needs data the public repo does not contain.
 - 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
 - 📊 **Slides / poster:**  
 
-fr
-
-``` markdown
-
-<iframe src="assets/capstone_poster.pdf" width="100%" height="800px" style="border:none;">
-</iframe>
-
-```
-
 
 
