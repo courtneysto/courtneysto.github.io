@@ -7,10 +7,6 @@ categories: [capstone, machine-learning, R]
 toc: true
 ---
 
-::: {.callout-note appearance="simple"}
-This is the anchor of your portfolio. A hiring manager who reads only one page
-should read this one. Replace every bracketed placeholder, then delete this note.
-:::
 
 ## The one-liner
 
@@ -19,12 +15,14 @@ should read this one. Replace every bracketed placeholder, then delete this note
 
 **Role:** \[e.g. I led the data pipeline and validation.\]
 **Team:** [Seira Ramchandani](https://github.com/Seira-Ram/Seira-Ram.github.io)
-**Repo:** [github.com/your_github_username/your-capstone-repo](https://github.com/Data-Science-Capstone-Project-2026/Capstone2026-Applicant-Trajectory/)
+**Repo:** [Public Repository](https://github.com/Data-Science-Capstone-Project-2026/Public_Repository/tree/main)
 
 ## The question
 
 What problem were you solving, and why does it matter to a real stakeholder?
 Two or three sentences. No jargon a hiring manager would have to look up.
+
+Willamette University spends a large amount of time and resources on recruitment and increasing enrollment. 
 
 ## The data
 
@@ -81,4 +79,5 @@ rely on `freeze`) on any chunk that needs data the public repo does not contain.
 ## Dig deeper
 
 - 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
-- 📊 **Slides / poster:** \[link if you have one\]
+- 📊 **Slides / poster:**  
+![Replace with your key result or system diagram.](assets/capstone_poster.pdf_){fig-alt="Placeholder capstone figure" width="90%"}
