@@ -18,8 +18,8 @@ website:
         text: Home
       - href: capstone.qmd
         text: Capstone
-      - href: projects.qmd
-        text: Projects
+      #- href: projects.qmd
+        #text: Projects
       - href: resume.qmd
         text: Resume
       - href: about.qmd

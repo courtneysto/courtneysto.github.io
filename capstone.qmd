@@ -23,14 +23,13 @@ Willamette University spends a large amount of time and resources on recruitment
 
 ## The data
 
-Where the data came from, how much of it, and the one hard thing about it
-(missingness, joins across sources, scale, privacy). This is your data
-engineering story — the part the repo link backs up.
+The first set of data - Willamette Application Data from Slate - contained 9404 applications from 2023-2025. The second set of data - National Student Clearinghouse Data - was three separate csvs with information from 2023, 2024, and 2025. Both sets were joined on each applicant. For this data, privacy was extremely important. Both team members signed confidentiality agreements and the data was only accessible using a private key that only the team members had. 
+
 
 ## The approach
 
-Your method at portfolio depth: shorter than your M4 write-up, longer than a
-tweet. What did you try, what did you keep, and why.
+Firstly, we examined the data using Exploratory Data Analysis to see initial trends and identify which features would be worth keeping. We then moved into modeling, initially trying multinomial logistic regression, a support vector machine, and XGBoost. The support vector machine was not kept due to its lower precision scores. XGBoost also allowed for identifying the most important features, which was very helpful for the overall analysis.
+
 
 ## Findings
 
@@ -51,7 +50,7 @@ full and shaky.
 
 ## Dig deeper
 
-- 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo) 
+- 📦 **Code & pipeline:** [Public Capstone Repository](https://github.com/Data-Science-Capstone-Project-2026/Public_Repository`) 
 - 📊 **Slides / poster:**  ![Capstone Poster](assets/capstone_poster.pdf){fig-alt="Capstone Poster"}
 
 
