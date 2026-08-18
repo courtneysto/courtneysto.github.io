@@ -49,8 +49,6 @@ Pick the option that matches where your write-up lives, keep one, delete the res
 
 ### A · Native Quarto
 
-If your write-up is a `.qmd`, copy it into `projects/capstone/index.qmd` and
-link it
 [Full Writeup](projects/capstone/index.qmd)
 
 ### B · Embedded PDF
@@ -61,8 +59,6 @@ link it
 <iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd;"></iframe>
 ```
-
-
 :::
 
 ## Dig deeper
