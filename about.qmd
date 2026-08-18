@@ -10,20 +10,18 @@ about:
 ## Hi, I'm Courtney
 
 
-I came to data science from \[your path: a major, a job, a question that would
-not leave you alone\]. What keeps me here is working with data and projects that have a real impact. Seeing a deployed dashboard assist real stakeholders because of my work keeps me in data science. I love working with all kinds of data and projects that have a real impact.
+I came to data science from a computer science background and a desire to be more connected with data and those it can serve. What keeps me here is working with data and projects that have a real impact. Seeing a deployed dashboard assist real stakeholders because of my work keeps me in data science. I love working with all kinds of data and projects that have a real impact.
 
 At Willamette my focus has been data engineering and data analysis. My [capstone](capstone.qmd) is where that comes together.
 
 ### Beyond the terminal
 
 - 🌲 I am an avid choral singer and I love to try new recipes.
-- 📚 \[Currently reading / learning / building.\]
-- 🎯 \[What you want to be doing in two years.\]
+- 🎯 I aspire to continue learning new techniques and approaches to data science.
 
 ### Get in touch
 
-I'm happy to talk about \[data work, collaborations, roles\].
+I'm happy to talk about data science, serving communities, potential roles, or a great recipe.
 
 - ✉️ [courtneyj.st.onge@gmail.com](mailto:courtneyj.st.onge@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/courtney-stonge/)
