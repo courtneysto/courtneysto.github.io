@@ -1,6 +1,6 @@
 ---
 title: "Capstone: Willamette Applicant Trajectory: Predicting Student College Enrollment Destination"
-subtitle: "A one-sentence hook: what you built and who it helps."
+subtitle: Helping the Willamette University Admissions Office specify their marketing
 date: 2026-07-27
 image: projects/capstone/featured.svg
 categories: [capstone, machine-learning, R]
@@ -10,19 +10,16 @@ toc: true
 
 ## The one-liner
 
-> We integrated **\[data sources\]** into **\[dataset\]** so that
-> **\[stakeholder\]** can **\[decision they can now make\]**.
+> We integrated past Willamette application data and National Student Clearinghouse Data into one cohesive dataset so that
+> the Willamette University Admissions and Enrollment Management teams can better allocate time and resources.
 
-**Role:** \[e.g. I led the data pipeline and validation.\]
+**Role:** I worked with data wrangling, modeling, and visualizations.
 **Team:** [Seira Ramchandani](https://github.com/Seira-Ram/Seira-Ram.github.io)
 **Repo:** [Public Repository](https://github.com/Data-Science-Capstone-Project-2026/Public_Repository/tree/main)
 
 ## The question
 
-What problem were you solving, and why does it matter to a real stakeholder?
-Two or three sentences. No jargon a hiring manager would have to look up.
-
-Willamette University spends a large amount of time and resources on recruitment and increasing enrollment. 
+Willamette University spends a large amount of time and resources on recruitment and increasing enrollment. However, many students choose to enroll at another school. By understanding which type of school a student might enroll in, whether that be a large public school or another Northwest 5 school, the recruitment strategies can be tailored and potentially be more effective. 
 
 ## The data
 
@@ -53,8 +50,8 @@ Pick the option that matches where your write-up lives, keep one, delete the res
 ### A · Native Quarto
 
 If your write-up is a `.qmd`, copy it into `projects/capstone/index.qmd` and
-link it, or fold its sections directly into this page. Set `eval: false` (or
-rely on `freeze`) on any chunk that needs data the public repo does not contain.
+link it
+[Full Writeup](projects/capstone/index.qmd)
 
 ### B · Embedded PDF
 
@@ -65,21 +62,14 @@ rely on `freeze`) on any chunk that needs data the public repo does not contain.
   style="border: 1px solid #ddd;"></iframe>
 ```
 
-### C · Published Google Doc
-
-```markdown
-[Read the full write-up](https://docs.google.com/document/d/e/XXXX/pub){.btn .btn-primary}
-
-<iframe src="https://docs.google.com/document/d/e/XXXX/pub?embedded=true"
-  width="100%" height="800px" style="border: 1px solid #ddd;"></iframe>
-```
 
 :::
 
 ## Dig deeper
 
 - 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
-- 📊 **Slides / poster:**  
+- 📊 **Slides / poster:**  ![Capstone Poster](assets/capstone_poster.pdf){fig-alt="Capstone Poster"}
+
 
 
 
