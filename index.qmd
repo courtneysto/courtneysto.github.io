@@ -26,7 +26,7 @@ I just finished my M.S. in Data Science at **Willamette University**,
 where my capstone [predicts the category of school that a student will attend](capstone.qmd) for
 the Willamette University Admissions and Enrollment Management Teams.
 
-I care about supporting communities, education, public service, data governance, ethical data practices, reproducible workflows, and proper communication to teammembers and stakeholders. 
+I care about supporting communities, education, public service, data governance, ethical data practices, reproducible workflows, and proper communication to team members and stakeholders. 
 
 **Currently looking for**  Data Analyst, Data Scientist, Data Engineer roles. [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
@@ -50,7 +50,7 @@ Quarto · Git ·
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-### 📍 Based in
+### 📍Based in
 Portland, OR
 Open to onsite, hybrid, remote
 :::
