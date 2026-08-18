@@ -35,7 +35,7 @@ I care about supporting communities, education, public service, data governance,
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-12}
 ### 🎓 Education
 M.S. Data Science
 Willamette University, 2026
@@ -43,13 +43,13 @@ B.S. Computer Science, Data Science
 Willamette University, 2026
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-6}
 ### 🛠️ Toolkit
 SQL · Python · R
 Quarto · Git ·
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-6}
 ### 📍Based in
 Portland, OR
 Open to onsite, hybrid, remote
