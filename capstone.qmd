@@ -43,27 +43,15 @@ full and shaky.
 
 ## The full write-up
 
-Pick the option that matches where your write-up lives, keep one, delete the rest.
-
-::: {.panel-tabset}
-
-### A · Native Quarto
-
-[Full Writeup](projects/capstone/index.qmd)
-
-### B · Embedded PDF
-
-```markdown
 [Download the write-up (PDF)](projects/capstone/writeup.pdf){.btn .btn-primary}
 
 <iframe src="projects/capstone/writeup.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd;"></iframe>
-```
-:::
+
 
 ## Dig deeper
 
-- 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
+- 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo) 
 - 📊 **Slides / poster:**  ![Capstone Poster](assets/capstone_poster.pdf){fig-alt="Capstone Poster"}
 
 
