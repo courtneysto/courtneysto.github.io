@@ -22,7 +22,7 @@ about:
 ---
 
 I build data pipelines and turn messy data into decisions people can act on.
-Right now I am finishing my M.S. in Data Science at **Willamette University**,
+I just finished my M.S. in Data Science at **Willamette University**,
 where my capstone [predicts the category of school that a student will attend](capstone.qmd) for
 the Willamette University Admissions and Enrollment Management Teams.
 
